@@ -18,10 +18,10 @@ const Sidebar = () => {
             src="/icons/logo.svg"
             width={34}
             height={34}
-            alt="Myanbank logo"
+            alt="Horizon logo"
             className="size-[24px] max-xl:size-14"
           />
-          <h1 className="sidebar-logo">MyanBank</h1>
+          <h1 className="sidebar-logo">Horizon</h1>
         </Link>
 
         {sidebarLinks.map((item) => {
